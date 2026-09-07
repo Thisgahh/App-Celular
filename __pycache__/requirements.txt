@@ -1,0 +1,6 @@
+streamlit>=1.51,<2
+streamlit-drawable-canvas>=0.9.3
+reportlab>=4.2,<5
+Pillow>=10,<13
+qrcode[pil]>=7.4,<9
+numpy>=1.26,<3
